@@ -1,5 +1,5 @@
 ## Overview
-This is a seperate repository for the docker that will run this application [Biomark Assessment](https://github.com/davidaloysius/biomark-assessment) \
+This is a seperate repository for the docker that will run this application [Biomark Assessment](https://github.com/davidaloysius/biomark-assessment).
  
 ### Dependencies
 [Docker](https://www.docker.com/products/docker-desktop) is required to run this application.
@@ -8,8 +8,8 @@ This is a seperate repository for the docker that will run this application [Bio
 ### Getting the Code
 Clone the repository in your local machine
 ```
-$ git clone https://github.com/davidaloysius/biomark-assessment.git
-$ cd biomark-assessment
+$ git clone https://github.com/davidaloysius/docker-container.git
+$ cd docker-container
 ```
 
 ### Running the application
